@@ -10,21 +10,16 @@ redirect_from:
 
 ## 1. Journal publications
 
-a. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334. DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).
+a. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334. DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).<br>
 
+b. Alam, M. N., Anupa, A., Kodamana, H., & Rathore, A. S. (2024). A deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. Biochemical Engineering Journal, 208, 109357. DOI:[10.1016/j.bej.2024.109357](https://www.sciencedirect.com/science/article/pii/S1369703X2400144X).<br>
 
-<br>
-
-b. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476. DOI:[10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w). <br>
-
-c. Aparna Venkataraman, Najiya Fatma, Sisira Edirippulige, Varun Ramamohan. Facilitators and Barriers for Telemedicine Systems in India from Multiple Stakeholder Perspectives and Settings. Telemedicine and e-Health, 2024, 30(5), 1341-1356.
-  DOI:[10.1101/2328898010](https://www.liebertpub.com/doi/abs/10.1089/tmj.2023.0297). <br>
+c. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier. DOI:[10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
   
-d. Najiya Fatma, Kaveri Kala, Varun Ramamohan. Towards Mitigating Overcrowding in Urban Indian Healthcare Facilities: Stakeholder Perception Analysis for Existing and Potential New Patient Referral Mechanisms. Under review. [Manuscript](https://web.iitd.ac.in/~mez188287/JPM.pdf). <br>
+d. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377. DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
 
-e. Najiya Fatma, Varun Ramamohan. Healthcare Facility Assignment using Queueing-theoretic and Simulation cum Machine Learning Based Real-Time Length of Stay Predictors. In preparation
 
-## 3. Peer-reviewed conference proceedings
+## Poster Presentations and Selected Talks
 
  a. Najiya Fatma, Arya T.R., Kushal Gupta, Soham Das, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript to be submitted to the 11th IFAC Conference on Manufacturing Modelling, Management and
 Control. <br>
