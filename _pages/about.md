@@ -1,13 +1,20 @@
 ---
 permalink: /
-#title: "Najiya Fatma, Ph.D."
+#title: "Md. Nasre Alam"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Md. Nasre Alam. I am currently a PhD candidate working with Prof. [Hariprasad Kodamana](https://web.iitd.ac.in/~kodamana/index.html) and with Prof. Anurag S. Rathore (https://www.biotechcmz.com/) at the [Department of Chemical Engineering](https://chemical.iitd.ac.in/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My Ph.D. thesis title is 'Machine Learning-Driven Modelling and Optimization of Biopharmaceutical Processes'....
+Hi! I am Md. Nasre Alam. I am currently a PhD candidate in the [Department of Chemical Engineering](https://chemical.iitd.ac.in/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). I am towards the finalisation of my PhD with my synopsis presentation completed and I am plan to submit the thesis within two to three months. I am working with Prof. [Hariprasad Kodamana](https://web.iitd.ac.in/~kodamana/index.html) and with Prof. Anurag S. Rathore (https://www.biotechcmz.com/), both faculties at 
+the Chemical Engineering Department and the Yardi School of Artificial Intelligence.   My research focuses on the intersection of machine learning and biopharmaceutical process engineering, with my Ph.D. thesis titled “Machine Learning-Driven Modelling and Optimization of Biopharmaceutical Processes.
+
+In my research, I employ advanced deep learning techniques and multiobjective optimization approaches to improve the efficiency and productivity of downstream bioprocessing, particularly for biopharmaceutical production. I specialize in Physics-Informed Neural Networks (PINNs) and symbolic regression frameworks to develop robust models that can optimize complex biopharmaceutical processes. 
+
+During my M.Tech, I also gained valuable research experience during an academic internship at the University of Witwatersrand, Johannesburg, where I worked on water network optimization for industrial applications. I was also selected under Scheme for Promotion of Academic and Research Collaboration (SPARC) as part of which I spent more than an year at the Laboratory for
+Intelligent Applications in Chemical Engineering at IIT Madras.
+
+For a detailed overview of my academic, research, and internship journey, please refer to my curriculum vitae.
 
 
-Please refer to my [curriculum vitae](https://drive.google.com/file/d/1Xsk0nvcldQVAhom8ZkF6-xZK-C1y5Z4S/view?usp=sharing) to get more details about my research and academic journey so far.  
