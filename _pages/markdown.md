@@ -18,6 +18,10 @@ c. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based rea
   
 d. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377. DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
 
+## Under review
+
+a. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. Symbolic regression-assisted modelling, optimization and validation for microbial fermentation system. Bioprocess and Biosystems Engineering (Under Review).
+
 ## 2. Peer-reviewed conference proceedings
 
 a. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, December 27-30, Kolkata.
