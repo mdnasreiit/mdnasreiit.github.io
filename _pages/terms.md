@@ -18,6 +18,10 @@ My research interests include:
 - **Multiobjective Optimization** <br>
 
 
+<ins>**Skills Summary**</ins>
+- **MProgramming Skills**: Python, MATLAB®, Mathematica, GAMS
+- **MOperating Systems**: Windows, Ubuntu
+- **MGeneral Packages**: LaTeX, MS Offic
 
 
 <ins>**Honours/Achievements/Professional affiliation**</ins>
@@ -28,5 +32,5 @@ My research interests include:
 - **September 2020 - September 2025**: Graduate Teaching Assistant Fellowship, IIT Delhi
 - **July 2018**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC)
 - **July 2018**: Recipient of Director’s Fellowship at IIT Gandhinagar
-- **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim University.
-- **September 2024**: Active Student Member of American Chemical Society (ACS) (30 September ’24 - Present).
+- **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim Universityxx1
+- **September 2024**: Active Student Member of American Chemical Society (ACS)
