@@ -11,9 +11,8 @@ Hi! I am Md. Nasre Alam. I am currently a PhD candidate in the [Department of Ch
 the Chemical Engineering Department and the Yardi School of Artificial Intelligence.   My research focuses on the intersection of machine learning and biopharmaceutical process engineering, with my Ph.D. thesis titled “Machine Learning-Driven Modelling and Optimization of Biopharmaceutical Processes. I employ advanced deep learning techniques and multiobjective optimization approaches to improve the efficiency and productivity of downstream bioprocessing, particularly for biopharmaceutical production. 
 
 
-During my M.Tech, I also gained valuable research experience during an academic internship at the University of Witwatersrand, Johannesburg, where I worked on water network optimization for industrial applications. I was also selected under Scheme for Promotion of Academic and Research Collaboration (SPARC) as part of which I spent more than an year at the Laboratory for
-Intelligent Applications in Chemical Engineering at IIT Madras.
+During my M.Tech, I also gained valuable research experience during an academic internship at the University of Witwatersrand, Johannesburg, where I worked on water network optimization for industrial applications. I was also selected under Scheme for Promotion of Academic and Research Collaboration (SPARC) as part of which I spent more than an year at the Laboratory for Intelligent Applications in Chemical Engineering at IIT Madras.
 
-For a detailed overview of my academic, research, and internship journey, please refer to my curriculum vitae [link can be added here].
+For a detailed overview of my academic, research, and internship journey, please refer to my curriculum vitae [cv link can be added here].
 
 
