@@ -1,6 +1,6 @@
 ---
 permalink: /terms/
-title: "Research Interests"
+#title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /md/
@@ -32,5 +32,5 @@ My research interests include:
 - **September 2020 - September 2025**: Graduate Teaching Assistant Fellowship, IIT Delhi
 - **July 2018**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC)
 - **July 2018**: Recipient of Director’s Fellowship at IIT Gandhinagar
-- **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim Universityxx1
+- **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim University
 - **September 2024**: Active Student Member of American Chemical Society (ACS)
