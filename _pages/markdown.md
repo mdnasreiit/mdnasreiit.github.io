@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 
-## 1. Book chapters
+## 1. Journal publications
 
-* Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan (2024). [Simulation and Machine Learning Based Real-Time Delay Prediction for Complex Queuing Systems](https://link.springer.com/chapter/10.1007/978-3-031-59999-6_8)). In Hybrid Modeling and Simulation: Conceptualizations, Methods and Applications (pp. 185-212). Cham: Springer Nature Switzerland.
+a. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334. DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).
 
-## 2. Journal publications
 
-a. Najiya Fatma, Varun Ramamohan. Healthcare seeking behavior among patients visiting public primary and secondary healthcare facilities in an urban Indian district: A cross-sectional quantitative analysis. PLOS Global Public Health, 2023, 3(9), e0001101. DOI:[10.1371/journal.pgph.0001101](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001101). <br>
+<br>
 
 b. Najiya Fatma, Varun Ramamohan. Patient Diversion Using Real-time Delay Predictions Across Healthcare Facility Networks. OR Spectrum, 2023; 45:437-476. DOI:[10.1007/s00291-022-00704-w](https://link.springer.com/article/10.1007/s00291-022-00704-w). <br>
 
