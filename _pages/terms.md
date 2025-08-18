@@ -15,11 +15,12 @@ My research interests include:
 - **Machine Learning and Deep Learning**  
 - **Reinforcement Learning**  
 - **Data Analytics**  
-- **Multiobjective Optimization**
+- **Multiobjective Optimization** <br>
 
 
 
-Honours/Achievements/Professional affiliation
+
+<ins>**Honours/Achievements/Professional affiliation**</ins>
 
 
 - **March 2025**: Research Excellence Travel Allowance (RETA) Award, IIT Delhi
@@ -28,5 +29,4 @@ Honours/Achievements/Professional affiliation
 - **July 2018**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC)
 - **July 2018**: Recipient of Director’s Fellowship at IIT Gandhinagar
 - **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim University.
-
-- **September 2024: Active Student Member of American Chemical Society (ACS) (30 September ’24 - Present).
+- **September 2024**: Active Student Member of American Chemical Society (ACS) (30 September ’24 - Present).
