@@ -18,27 +18,27 @@ c. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based rea
   
 d. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377. DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
 
+## 2. Peer-reviewed conference proceedings
+
+a. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, December 27-30, Kolkata.
+
+b. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023, July). Bio-jet fuel: an overview of various feedstock and production routes. In AIP conference proceedings (Vol. 2785, No. 1). AIP Publishing. DOI: [10.1063/5.0147982](https://doi.org/10.1063/5.0147982)
+
 
 ## Poster Presentations and Selected Talks
 
- a. Najiya Fatma, Arya T.R., Kushal Gupta, Soham Das, Varun Ramamohan. Dynamic Route Planning for Military Aircraft Using Network Optimization Methods. Manuscript to be submitted to the 11th IFAC Conference on Manufacturing Modelling, Management and
-Control. <br>
+ a. Deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products" at ACS Spring 2025, March 23-27, San Diego, USA.
 
- b. Najiya Fatma, Varun Ramamohan. A Generic Modeling Approach Towards Simulating an Urban Primary and Secondary Healthcare Facility Network. Proceedings of the 2023 Annual Modeling and Simulation (ANNSIM) Conference, May 23—26, Ontario (Canada), pp. 1–12, IEEE Press.
-DOI: [10.10155357/0010837400003117](https://ieeexplore.ieee.org/document/10155357). <br>
+ b. Oral presentation on " Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process" at ACS Spring 2025, March 23-27, San Diego, USA.
 
- c. Najiya Fatma, Varun Ramamohan. Outpatient Diversion using Real-Time Length of Stay Predictions. Proceedings of ICORES 2022: 11th International Conference on Operations Research & Enterprise Systems, pp. 56–66, SCITEPress.
-DOI: [10.5220/0010837400003117](https://www.scitepress.org/PublishedPapers/2022/108374/pdf/index.html). <br>
+ c. Hybrid neural model for bioreactor system in mammalian cell culture" at BIOPROCESSING INDIA 2024, December 15-17, IIT Madras, Chennai.
 
- d. Najiya Fatma, Varun Ramamohan. Patient Diversion Across Primary Health Centers Using Real-Time Delay Predictors. 2021 Institute of Industrial & Systems Engineers Annual Meeting Proceedings, May 22–25, pp. 441-446, Institute of Industrial & Systems Engineers (IISE).
-Preprint: [arXiv:2101.11074](https://arxiv.org/abs/2101.11074). <br>
+ d. DL-based real-time prediction of product formation in biopharmaceutical manufacturing" at ESCAPE 34-PSE 2024, June 2-6, Florence, Italy.
 
- e. Najiya Fatma, Mohd Shoaib, Navonil Mustafee, Varun Ramamohan. Primary Healthcare Delivery Network Simulation Using Stochastic Metamodels. Proceedings of the 2020 Winter Simulation Conference, December 13–16, Orlando FL (USA), pp. 818-829, IEEE Press. Invited paper.
-DOI: [10.1109/WSC48552.2020.9384069](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9384069).
+ e. Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks" at IIChE-CHEMCON 2023, December 27-30, Kolkata
 
-## 4. Technical reports
 
-* Najiya Fatma, Arya TR, Varun Ramamohan. Dynamic Route Planning for Combat Aircraft using Network Optimization Methods. November 2023.
+
 
 ## 5. Poster presentations and selected talks
 
