@@ -22,12 +22,12 @@ repository               : "mdnasreiit/mdnasreiit.github.io/"
 author:
   # Biographic information
   avatar           : "mdnasreiitdp.png"
-  #name             : "Md. Nasre Alam"
-  pronouns         : # example: "she/her"  
+  #name            :  "Md. Nasre Alam"
+  pronouns         : # example: "he/him"  
   bio              : "Researcher, Symbolic machine learner, Reinforcement learner"
-  #location         : "New Delhi, India"
-  #employer         : "Indian Institute of Technology Delhi"
-  #uri              : NajiyaFatma
+  #location        : "New Delhi, India"
+  #employer        : "Indian Institute of Technology Delhi"
+  #uri             : Md Nasre Alam
   email            : "mdnasrealam.iitd@gmail.com" 
 
   # Academic websites
