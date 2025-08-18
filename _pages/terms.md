@@ -18,17 +18,15 @@ My research interests include:
 - **Multiobjective Optimization**
 
 
-## 1. Physics-informed neural networks of mAb production process...
 
-The approach here involved developing a deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products andf using physics‐informed neural networks guided modelling and multiobjective optimization of a mAb production process.
-
-**Related works:** <span style="color:blue"> 1a, 3b and ....</span>, as referenced on the published manuscript page.
-
-## 2. DL based real-time prediction of product formation in biopharmaceutical manufacturing
-
-The approach here involved using DL based real-time prediction of product formation in biopharmaceutical manufacturing.
+Honours/Achievements/Professional affiliation
 
 
-**Related works:** <span style="color:blue">1b, 3a, ....e</span>, and others, as referenced on the published manuscript page.
+- **March 2025**: Research Excellence Travel Allowance (RETA) Award, IIT Delhi
+- **June 2024**: Research Scholar Travel Allowance (RSTA) Award, IIT Delh
+- **September 2020 - September 2025**: Graduate Teaching Assistant Fellowship, IIT Delhi
+- **July 2018**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC)
+- **July 2018**: Recipient of Director’s Fellowship at IIT Gandhinagar
+- **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim University.
 
-
+- **September 2024: Active Student Member of American Chemical Society (ACS) (30 September ’24 - Present).
