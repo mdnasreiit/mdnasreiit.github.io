@@ -19,9 +19,9 @@ My research interests include:
 
 
 <ins>**Skills Summary**</ins>
-- **MProgramming Skills**: Python, MATLAB®, Mathematica, GAMS
-- **MOperating Systems**: Windows, Ubuntu
-- **MGeneral Packages**: LaTeX, MS Offic
+- **Programming Skills**: Python, MATLAB®, Mathematica, GAMS
+- **Operating Systems**: Windows, Ubuntu
+- **General Packages**: LaTeX, MS Offic
 
 
 <ins>**Honours/Achievements/Professional affiliation**</ins>
