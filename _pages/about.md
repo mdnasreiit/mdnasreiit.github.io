@@ -14,6 +14,6 @@ the Chemical Engineering Department and the Yardi School of Artificial Intellige
 During my M.Tech, I also gained valuable research experience during an academic internship at the University of Witwatersrand, Johannesburg, where I worked on water network optimization for industrial applications. I was also selected under Scheme for Promotion of Academic and Research Collaboration (SPARC) as part of which I spent more than an year at the Laboratory for
 Intelligent Applications in Chemical Engineering at IIT Madras.
 
-For a detailed overview of my academic, research, and internship journey, please refer to my curriculum vitae.
+For a detailed overview of my academic, research, and internship journey, please refer to my curriculum vitae [link can be added here].
 
 
