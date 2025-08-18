@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D candidate in Chemical Engineering, Indian Institute of Technology Delhi, India [September 2020 - August 2025]
 * M.Tech in Chemical Engineering, Indian Institute of Technology Gandhinagar, India [July 2018 - 2020]
-* B.Tech in Chemical Engineering, Aligarh Musmlim University, India [July 2014 - June 2018]
+* B.Tech in Chemical Engineering, Zakir Husain College of Engineering & Technology, Aligarh Musmlim University, India [July 2014 - June 2018]
 
 
 Research experience
