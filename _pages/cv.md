@@ -21,11 +21,15 @@ Research experience
 * February 2020 - June 2020: Academic Research Internship, University of Witwatersrand
   * Research topic....
   * Supervisor: Dr. Thokozani Majozi, Professor and Dean of the Faculty of Engineering and the Built Environment, University of
-  Witwatersrand, Johannesburg, South Africa.Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine <br>
+  Witwatersrand, Johannesburg, South Africa
+
+<br>
 * July 2018 - 2020: iACE Postgraduate student, IIT Madras
-  * Synthesis of an Optimal Schedule and Water Network for a Multipurpose Multiproduct Textile Industry Through a Sequential MILP-NLP Technique
+  * Synthesis of an Optimal Schedule and Water Network for a Multipurpose Multiproduct Textile Industry Through a Sequential MILP
+    NLP Technique
   * Supervisor: Prof. Babji Srinivasan & Prof. Rajagopalan Srinivasan
-  * Industrial Research & Development (IRD) Unit, IIT Delhi
+  * Laboratory for Intelligent Applications in Chemical Engineering
+  
 <br>
 * July 2017: Summer Internship
   * Indian Oil Corporation Limitedy, Barauni, Bihar, India
