@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## 1. Journal publications
+## 1. Journal articles
 
 a. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334. DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).<br>
 
