@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Md. Nasre Alam. I am currently a PhD candidate in the [Department of Chemical Engineering](https://chemical.iitd.ac.in/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). I am towards the finalisation of my PhD with my synopsis presentation completed and I am plan to submit the thesis within two to three months. I am working with Prof. [Hariprasad Kodamana](https://web.iitd.ac.in/~kodamana/index.html) and with Prof. Anurag S. Rathore (https://www.biotechcmz.com/), both faculties at 
+Hi! I am Md. Nasre Alam. I am currently a PhD candidate in the [Department of Chemical Engineering](https://chemical.iitd.ac.in/) at the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). I am towards the finalisation of my PhD with my synopsis presentation completed and I am plan to submit the thesis within two to three months. I am working with Prof. [Hariprasad Kodamana](https://web.iitd.ac.in/~kodamana/index.html) and with Prof. [Anurag S. Rathore](https://www.biotechcmz.com/), both faculties at 
 the Chemical Engineering Department and the Yardi School of Artificial Intelligence.   My research focuses on the intersection of machine learning and biopharmaceutical process engineering, with my Ph.D. thesis titled “Machine Learning-Driven Modelling and Optimization of Biopharmaceutical Processes. I employ advanced deep learning techniques and multiobjective optimization approaches to improve the efficiency and productivity of downstream bioprocessing, particularly for biopharmaceutical production. 
 
 
