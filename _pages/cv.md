@@ -18,16 +18,15 @@ Education
 
 Research experience
 ======
-* December 2024 - Research Scientist, NYU Langone Health
-  * Simulation modeling of organ allocation
-  * Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine
-<br>
-* July 2024 - September 2024: Early Doctoral Fellow, IIT Delhi
-  * Real-time healthcare facility assignment using analytical and simulation-driven machine learning techniques
+* February 2020 - June 2020: Academic Research Internship, University of Witwatersrand
+  * Research topic....
+  * Supervisor: Dr. Thokozani Majozi, Professor and Dean of the Faculty of Engineering and the Built Environment, University of
+  Witwatersrand, Johannesburg, South Africa.Center for Surgical and Transplant Applied Research, NYU Grossman School of Medicine <br>
+* July 2018 - 2020: iACE Postgraduate student, IIT Madras
+  * Synthesis of an Optimal Schedule and Water Network for a Multipurpose Multiproduct Textile Industry Through a Sequential MILP-NLP Technique
+  * Supervisor: Prof. Babji Srinivasan & Prof. Rajagopalan Srinivasan
   * Industrial Research & Development (IRD) Unit, IIT Delhi
 <br>
-* August 2023 - May 2024: Principal Project Scientist, IIT Delhi
-  * Dynamic Route Planning of Combat Aircraft using Network Optimisation Algorithms
-  * Aeronautical Development Agency, Defence Research and Development Organisation (DRDO), Government of India
-
+* July 2017: Summer Internship
+  * Indian Oil Corporation Limitedy, Barauni, Bihar, India
   
