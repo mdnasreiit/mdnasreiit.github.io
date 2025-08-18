@@ -27,28 +27,16 @@ b. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023, July). Bio-jet fuel:
 
 ## Poster Presentations and Selected Talks
 
- a. Deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products" at ACS Spring 2025, March 23-27, San Diego, USA.
+ a. Md. Nasre Alam, ...other authors....Deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. ACS Spring 2025, March 23-27, San Diego, USA.
 
- b. Oral presentation on " Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process" at ACS Spring 2025, March 23-27, San Diego, USA.
+ b. Md. Nasre Alam, ...other authors....Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. 2025. ACS Spring 2025, March 23-27, San Diego, USA.
 
- c. Hybrid neural model for bioreactor system in mammalian cell culture" at BIOPROCESSING INDIA 2024, December 15-17, IIT Madras, Chennai.
+ c. Md. Nasre Alam, ...other authors....Hybrid neural model for bioreactor system in mammalian cell culture. 2024. Bioprocessing India 2024, December 15-17, IIT Madras, Chennai. <br>
 
- d. DL-based real-time prediction of product formation in biopharmaceutical manufacturing" at ESCAPE 34-PSE 2024, June 2-6, Florence, Italy.
+ d. Md. Nasre Alam, ...other authors.... DL-based real-time prediction of product formation in biopharmaceutical manufacturing. 2024. ESCAPE 34 - PSE 2024, June 2-6, Florence, Italy. <br>
 
- e. Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks" at IIChE-CHEMCON 2023, December 27-30, Kolkata
+ e. Md. Nasre Alam, ...other authors.... Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. IIChE-CHEMCON 2023, December 27-30, Kolkata, India.
 
-
-
-
-## 5. Poster presentations and selected talks
-
-a. Najiya Fatma, Varun Ramamohan. Real-Time Public Healthcare Facility Assignment Using Lengths of Stay Prediction. 56th Annual Convention of Operational Research Society of India (2023-ORSI), 18-20, December 2023, IISc Bangalore, India. <br>
-
-b. Najiya Fatma, Pranav Shankar Girish, Varun Ramamohan. Real-Time Delay Prediction for Kidney Transplantation System. 2023 Winter Simulation Conference, December 10-13, San Antonio, Texas, USA. <br>
-
-c. Najiya Fatma, Varun Ramamohan. Analytical and Simulation-Driven Machine Learning Methods for Generating RealTime Outpatient Length-of-Stay Predictions. 2022 Winter Simulation Conference, December 11-14, Singapore. [Extended abstract](https://informs-sim.org/wsc22papers/pos128.pdf). <br>
-
-d. Najiya Fatma, Varun Ramamohan. Real-Time Delay Prediction based Patient Diversion Across Healthcare Facility Networks. INFORMS 2021 Annual Meeting, October 24 – 27, California, USA.
 
 
 
