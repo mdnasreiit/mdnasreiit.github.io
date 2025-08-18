@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial Engineering, Indian Institute of Technology Delhi, India [July 2018 - June 2024]
-* B.Tech in Production and Industrial Engineering, National Institute of Technology Jamshedpur, India [July 2014 - June 2018]
+* Ph.D candidate in Chemical Engineering, Indian Institute of Technology Delhi, India [September 2020 - August 2025]
+* M.Tech in Chemical Engineering, Indian Institute of Technology Gandhinagar, India [July 2018 - 2020]
+* B.Tech in Chemical Engineering, Aligarh Musmlim University, India [July 2014 - June 2018]
 
 
 Research experience
