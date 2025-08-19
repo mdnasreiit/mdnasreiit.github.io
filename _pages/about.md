@@ -11,6 +11,6 @@ Hi! I am Md. Nasre Alam, a PhD candidate in the [Department of Chemical Engineer
 
 Earlier, during my M.Tech, I also gained valuable research experience during an academic internship at the [University of Witwatersrand, Johannesburg](https://www.wits.ac.za/), where I worked on water network optimization for industrial applications. I was also selected under the Scheme for Promotion of Academic and Research Collaboration (SPARC) program as part of which I worked in collaboration with the [Laboratory for Intelligent Applications in Chemical Engineering](https://home.iitm.ac.in/raj/) at IIT Madras.
 
-For a detailed overview of my academic, research, and internship journey, please refer to my curriculum vitae [cv link can be added here].
+For a detailed overview of my academic, research, and internship journey, please refer to my [curriculum vitae] (https://drive.google.com/file/d/1838e1F1vr8HRvpDiKh3hficAJyRUmKqi/view?usp=drive_link).
 
 
