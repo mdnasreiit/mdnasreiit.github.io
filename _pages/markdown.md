@@ -33,7 +33,7 @@ redirect_from:
 4. Alam, M. N., Kodamana, H., & Rathore, A. S. (2025). Hybrid Modelling Frameworks in Bioprocessing: Current Practices and Future Directions. Special Section: ACS eBooks Symposium Series (Under Review).
 
 
-## 3. Poster Presentations and Selected Talks
+## Poster Presentations and Selected Talks
 
  1. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. Physics-informed neural networks guided modelling and multiobjective           optimization of a mAb production process. ACS Spring 2025, March 23-27, San Diego, USA.
 
