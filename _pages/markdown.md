@@ -16,34 +16,34 @@ redirect_from:
   
 3. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377. DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
 
-## Under Revision & Review
+   ## Under Revision & Review
 4. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2025). A data-driven symbolic regression framework for modelling and multiobjective optimization of a microbial fermentation system. Industrial & Engineering Chemistry Research. (Under revision in response to reviewers’ comments).
 
 5. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2025). Integrating mechanistic modelling with a multi-agent reinforcement learning framework for hierarchical optimization of protein production in E. coli. Computers & Chemical Engineering (Under Review).
 
 ## Peer-reviewed Conference Proceedings
 
-1.Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier. DOI:[10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
+1. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier. DOI:[10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
 
 2. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, ISBN: 9789310 000719.
 
 3. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023). Bio-jet fuel: an overview of various feedstock and production routes. In AIP conference proceedings (Vol. 2785, No. 1). AIP Publishing. DOI: [10.1063/5.0147982](https://doi.org/10.1063/5.0147982)
 
-## Under Review
+   ## Under Review
 4. Alam, M. N., Kodamana, H., & Rathore, A. S. (2025). Hybrid Modelling Frameworks in Bioprocessing: Current Practices and Future Directions. Special Section: ACS eBooks Symposium Series (Under Review).
 
 
 ## 3. Poster Presentations and Selected Talks
 
- a. Md. Nasre Alam, ...other authors....Deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. ACS Spring 2025, March 23-27, San Diego, USA.
+ 1. Md Nasre Alam, ...other authors....Deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. ACS Spring 2025, March 23-27, San Diego, USA.
 
- b. Md. Nasre Alam, ...other authors....Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. 2025. ACS Spring 2025, March 23-27, San Diego, USA.
+ 2. Md. Nasre Alam, ...other authors....Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. 2025. ACS Spring 2025, March 23-27, San Diego, USA.
 
- c. Md. Nasre Alam, ...other authors....Hybrid neural model for bioreactor system in mammalian cell culture. 2024. Bioprocessing India 2024, December 15-17, IIT Madras, Chennai. <br>
+ 3. Md. Nasre Alam, ...other authors....Hybrid neural model for bioreactor system in mammalian cell culture. 2024. Bioprocessing India 2024, December 15-17, IIT Madras, Chennai. <br>
 
- d. Md. Nasre Alam, ...other authors.... DL-based real-time prediction of product formation in biopharmaceutical manufacturing. 2024. ESCAPE 34 - PSE 2024, June 2-6, Florence, Italy. <br>
+ 4. Md. Nasre Alam, ...other authors.... DL-based real-time prediction of product formation in biopharmaceutical manufacturing. 2024. ESCAPE 34 - PSE 2024, June 2-6, Florence, Italy. <br>
 
- e. Md. Nasre Alam, ...other authors.... Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. IIChE-CHEMCON 2023, December 27-30, Kolkata, India.
+ 5. Md. Nasre Alam, ...other authors.... Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. IIChE-CHEMCON 2023, December 27-30, Kolkata, India.
 
 
 
