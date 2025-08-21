@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-My research interests include:
 
+<ins>**Area of Research Interests**</ins>
 - **Bioprocessing and Biopharmaceuticals**  
 - **Data-driven, Mechanistic and Hybrid Modelling**  
 - **Machine Learning and Deep Learning**  
@@ -21,16 +21,16 @@ My research interests include:
 <ins>**Skills Summary**</ins>
 - **Programming Skills**: Python, MATLAB®, Mathematica, GAMS
 - **Operating Systems**: Windows, Ubuntu
-- **General Packages**: LaTeX, MS Offic
+- **General Packages**: LaTeX, MS Office
 
 
-<ins>**Honours/Achievements/Professional affiliation**</ins>
+<ins>**Honours/Achievements/Professional Affiliation**</ins>
 
 
 - **March 2025**: Research Excellence Travel Allowance (RETA) Award, IIT Delhi
-- **June 2024**: Research Scholar Travel Allowance (RSTA) Award, IIT Delh
+- **June 2024**: Research Scholar Travel Allowance (RSTA) Award, IIT Delhi
 - **September 2020 - September 2025**: Graduate Teaching Assistant Fellowship, IIT Delhi
-- **July 2018**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC)
-- **July 2018**: Recipient of Director’s Fellowship at IIT Gandhinagar
-- **July 2016**: Recipient of Vice Chancellor’s Fellowship at Aligarh Muslim University
-- **September 2024**: Active Student Member of American Chemical Society (ACS)
+- **July 2019**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC) Award, MoE-GoI.
+- **July 2018 - June 2020**: Recipient of Director’s Fellowship, IIT Gandhinagar
+- **July 2016 - June 2017**: Recipient of Vice Chancellor’s Fellowship, Aligarh Muslim University
+- **September 2024 - Present**: Student Member of American Chemical Society (ACS), USA
