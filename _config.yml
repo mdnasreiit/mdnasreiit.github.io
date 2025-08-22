@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Md. Nasre Alam"
+title                    : "Md Nasre Alam"
 title_separator          : "-"
 name                     : &namehj
 description              : &description "personal description"
