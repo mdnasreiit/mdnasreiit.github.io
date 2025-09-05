@@ -14,12 +14,13 @@ redirect_from:
 - **Data-driven, Mechanistic and Hybrid Modelling**  
 - **Machine Learning and Deep Learning**  
 - **Reinforcement Learning**  
-- **Data Analytics**  
+- **Data Analytics**
+- **Image Processing** 
 - **Multiobjective Optimization** <br>
 
 
 <ins>**Skills Summary**</ins>
-- **Programming Skills**: Python, MATLAB®, Mathematica, GAMS
+- **Programming Skills**: Python, R, MATLAB®, Mathematica, GAMS
 - **Operating Systems**: Windows, Ubuntu
 - **General Packages**: LaTeX, MS Office
 
