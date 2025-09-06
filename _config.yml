@@ -21,7 +21,7 @@ repository               : "mdnasreiit/mdnasreiit.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MNA.png"
+  avatar           : "MNA0.1.png"
   #name            :  "Md. Nasre Alam"
   pronouns         : # example: "he/him"  
   bio              : "Researcher, Bioprocess Modeller, AI/ML Enthusiast"
