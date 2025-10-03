@@ -40,9 +40,9 @@ redirect_from:
 
  2. Alam, M. N., Anupa, A., Kodamana, H., & Rathore, A. S. Deep learning-aided multi-objective optimization of a downstream process for production of monoclonal     antibody products. ACS Spring 2025, March 23-27, San Diego, USA. [Poster]
 
- 3. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. Hybrid neural model for bioreactor system in mammalian cell culture.           Bioprocessing India 2024, December 15-17, IIT Madras, Chennai, India. <br> [Talk]
+ 3. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. Hybrid neural model for bioreactor system in mammalian cell culture.           Bioprocessing India 2024, December 15-17, IIT Madras, Chennai, India. [Talk]
 
- 4. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. DL-based real-time prediction of product formation in biopharmaceutical manufacturing. ESCAPE 34 - PSE  2024, June 2-6, Florence, Italy. <br> [Talk]
+ 4. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. DL-based real-time prediction of product formation in biopharmaceutical manufacturing. ESCAPE 34 - PSE  2024, June 2-6, Florence, Italy. [Talk]
 
  5. Alam, M. N., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor         Operations via LSTM Networks. IIChE-CHEMCON 2023, December 27-30, Kolkata, India. [Talk]
 
