@@ -10,13 +10,14 @@ redirect_from:
 
 
 <ins>**Area of Research Interests**</ins>
-- **Bioprocessing and Biopharmaceuticals**  
-- **Data-driven, Mechanistic and Hybrid Modelling**  
 - **Machine Learning and Deep Learning**  
+- **Data-driven, Mechanistic and Hybrid Modelling**  
 - **Reinforcement Learning**  
+- **Bioprocessing and Biopharmaceuticals**  
 - **Data Analytics**
 - **Image Processing** 
-- **Multiobjective Optimization** <br>
+- **Multiobjective Optimization**
+- **Process Systems Engineering** <br>
 
 
 <ins>**Skills Summary**</ins>
