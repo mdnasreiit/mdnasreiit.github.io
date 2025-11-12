@@ -11,6 +11,6 @@ Hi! I am Md Nasre Alam, a PhD candidate in the [Department of Chemical Engineeri
 
 Earlier, during my MTech, I also gained valuable research experience through an academic research internship at the [University of Witwatersrand, Johannesburg](https://www.wits.ac.za/), where I worked on water and wastewater network optimization for industrial applications under Prof. [Thokozani Majozi](https://www.wits.ac.za/about-wits/office-of-the-vice-chancellor/faculty-deans/thokozani-majozi/). I was also selected under the Scheme for Promotion of Academic and Research Collaboration (SPARC) program as part of which I worked in collaboration with the [Laboratory for Intelligent Applications in Chemical Engineering](https://home.iitm.ac.in/raj/) Group and [Human-in-the-Loop Cyber-Physical Systems](https://home.iitm.ac.in/babji.srinivasan/index.html) Group at IIT Madras under Prof. [Rajagopalan Srinivasan](https://home.iitm.ac.in/raj/index.html) and Prof. [Babji Srinivasan](https://home.iitm.ac.in/babji.srinivasan/index.html), respectively.
 
-For a detailed overview of my academic, research, and internship journey, please refer to my [curriculum vitae](https://drive.google.com/file/d/1qDOI1pLNuiipH9Tjqk7hT6m8xWotNrFx/view?usp=drive_link).
+For a detailed overview of my academic, research, and internship journey, please refer to my [curriculum vitae](https://drive.google.com/file/d/1seWWk7fl4AeajOBPwPRxMnBH6G7jp0e7/view?usp=drive_link).
 
 
