@@ -16,7 +16,7 @@ redirect_from:
 2. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334.<br>  DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).<br>
 
 3. Alam, M. N., Bhat, S., Kodamana, H., & Rathore, A. S. (2025). A Data-Driven Symbolic Regression Framework for Modeling and Multiobjective Optimization of a Microbial Fermentation System. Industrial & Engineering Chemistry Research, 64(49), 23220-23233.<br>  DOI:[10.1021/acs.iecr.5c02567](https://doi.org/10.1021/acs.iecr.5c02567).<br>
-**Featured on the journal cover of Industrial & Engineering Chemistry Research**.<br> [Cover link] (https://pubs.acs.org/toc/iecred/64/49)
+**Featured on the journal cover of Industrial & Engineering Chemistry Research**.[Cover link](https://pubs.acs.org/toc/iecred/64/49)
 
 
 
