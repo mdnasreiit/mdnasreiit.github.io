@@ -1,9 +1,10 @@
 ---
 layout: archive
-#title: "CV"
-permalink: /cv/
+title: "Academic and Research Experience"
+permalink: /academic-and-research-experience/
 author_profile: true
 redirect_from:
+  - /cv/
   - /resume
 ---
 
