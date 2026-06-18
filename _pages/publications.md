@@ -16,10 +16,16 @@ redirect_from:
 2. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334.<br>  DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).<br>
 
 3. Alam, M. N., Bhat, S., Kodamana, H., & Rathore, A. S. (2025). A Data-Driven Symbolic Regression Framework for Modeling and Multiobjective Optimization of a Microbial Fermentation System. Industrial & Engineering Chemistry Research, 64(49), 23220-23233.<br>  DOI:[10.1021/acs.iecr.5c02567](https://doi.org/10.1021/acs.iecr.5c02567).<br>
+**Featured on the journal cover of Industrial & Engineering Chemistry Research**.<br> [Cover link] (https://pubs.acs.org/toc/iecred/64/49)
+
+
 
 4. Alam, M. N., Anupa, A., Kodamana, H., & Rathore, A. S. (2024). A deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. Biochemical Engineering Journal, 208, 109357.<br>  DOI:[10.1016/j.bej.2024.109357](https://www.sciencedirect.com/science/article/pii/S1369703X2400144X).<br>
   
 5. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377.<br>  DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
+
+
+
 
 
 ## Peer-reviewed Conference Proceedings
