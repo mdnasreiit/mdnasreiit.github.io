@@ -19,7 +19,7 @@ Education
 Research Experience
 ======
 
-* **February 2026 - **: Senior Scientist, Pfizer
+* **February 2026 -**: Senior Scientist, Pfizer
   * Project:  <br>
 
   
