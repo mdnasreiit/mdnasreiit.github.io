@@ -18,6 +18,11 @@ Education
 
 Research Experience
 ======
+
+* **February 2026 - July 2020**: Senior Scientist, Pfizer
+  * Project:  <br>
+
+  
 * **February 2020 - July 2020**: Academic Research Internship, University of the Witwatersrand, Johannesburg, South Africa
   * Project: Integrated Continuous-Time Scheduling for Water Minimization in Textile Batch Plants
   * Supervisor: Dr. Thokozani Majozi, Professor and Dean of the Faculty of Engineering and the Built Environment, University of the
