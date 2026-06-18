@@ -10,13 +10,15 @@ redirect_from:
 
 ## Journal Articles
 
-1. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334. DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).<br>
+1. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2026). Integrating mechanistic modelling with a multi-agent reinforcement learning framework for stage-wise optimization of protein production in E. coli. Computers & Chemical Engineering, 109692. Volume 212. DOI:[10.1016/j.compchemeng.2026.109692](https://doi.org/10.1016/j.compchemeng.2026.109692).<br>
 
-2. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2025). A data-driven symbolic regression framework for modelling and multiobjective optimization of a microbial fermentation system. Industrial & Engineering Chemistry Research, 2025, XXXX, XXX, XXX-XXX. DOI:[10.1021/acs.iecr.5c02567](https://doi.org/10.1021/acs.iecr.5c02567).<br>
+2. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. (2025). Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. The Canadian Journal of Chemical Engineering, 2025, 103(3), 1319-1334. DOI:[10.1002/cjce.25446](https://doi.org/10.1002/cjce.25446).<br>
 
-3. Alam, M. N., Anupa, A., Kodamana, H., & Rathore, A. S. (2024). A deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. Biochemical Engineering Journal, 208, 109357. DOI:[10.1016/j.bej.2024.109357](https://www.sciencedirect.com/science/article/pii/S1369703X2400144X).<br>
+3. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2025). A data-driven symbolic regression framework for modelling and multiobjective optimization of a microbial fermentation system. Industrial & Engineering Chemistry Research, 2025, XXXX, XXX, XXX-XXX. DOI:[10.1021/acs.iecr.5c02567](https://doi.org/10.1021/acs.iecr.5c02567).<br>
+
+4. Alam, M. N., Anupa, A., Kodamana, H., & Rathore, A. S. (2024). A deep learning-aided multi-objective optimization of a downstream process for production of monoclonal antibody products. Biochemical Engineering Journal, 208, 109357. DOI:[10.1016/j.bej.2024.109357](https://www.sciencedirect.com/science/article/pii/S1369703X2400144X).<br>
   
-4. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377. DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
+5. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377. DOI:[10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
 
    ## Under Revision
 
