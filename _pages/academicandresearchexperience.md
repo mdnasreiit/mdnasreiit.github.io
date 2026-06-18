@@ -21,7 +21,7 @@ Research Experience
 ======
 
 * **February 2026 -**: Senior Scientist, Pfizer
-  * Project:  <br>
+  * Project: <br>
 
   
 * **February 2020 - July 2020**: Academic Research Internship, University of the Witwatersrand, Johannesburg, South Africa
