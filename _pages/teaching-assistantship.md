@@ -1,5 +1,5 @@
 ---
-permalink: /404/
+permalink: /teaching-assistantship/
 #title: "Md Nasre Alam"
 author_profile: true
 redirect_from: 
