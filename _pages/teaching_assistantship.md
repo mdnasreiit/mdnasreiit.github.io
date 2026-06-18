@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Teaching Assistantship:
+**Teaching Assistantship**:
 
 <ins>**PhD**</ins>
 
