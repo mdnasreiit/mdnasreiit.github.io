@@ -1,5 +1,5 @@
 ---
-permalink: /terms/
+permalink: /research-interests/
 #title: "Research Interests"
 author_profile: true
 redirect_from: 
