@@ -30,7 +30,7 @@ Cover link: https://pubs.acs.org/toc/iecred/64/49
 
 ## Peer-reviewed Conference Proceedings
 
-1. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier.<br>  DOI:[10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
+1. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier.<br>  DOI: [10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
 
 2. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, ISBN: 9789310 000719.
 
