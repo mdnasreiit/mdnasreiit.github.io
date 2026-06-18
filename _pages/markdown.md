@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Manuscripts"
+permalink: /publications/
+#title: "Manuscripts"
 author_profile: true
 redirect_from: 
   - /md/
