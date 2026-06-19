@@ -13,6 +13,6 @@ I finished my PhD in Chemical Engineering from the [Indian Institute of Technolo
 
 Earlier, during my M.Tech at [IIT Gandhinagar](https://iitgn.ac.in/), I also gained valuable research experience through an academic research internship at the [University of Witwatersrand, Johannesburg](https://www.wits.ac.za/), where I worked on water and wastewater network optimization for industrial applications. I was also selected under the Scheme for Promotion of Academic and Research Collaboration (SPARC) program during my M.Tech where I worked with [Laboratory for Intelligent Applications in Chemical Engineering](https://home.iitm.ac.in/raj/) and [Human-in-the-Loop Cyber-Physical Systems](https://home.iitm.ac.in/babji.srinivasan/index.html) Group at IIT Madras.
 
-For a detailed overview of my professional, academic, research, and internship experiences, please refer to my [curriculum vitae](https://drive.google.com/file/d/1409JjZOCiwoabOxOmhlOhtApqRy6TC9u/view?usp=drive_link).
+For a detailed overview of my professional, academic, research, and internship experiences, please refer to my [curriculum vitae](https://drive.google.com/file/d/1o31TnN9CxZLUy8v24-crZUkwT7b-XvVX/view?usp=sharing).
 
 
