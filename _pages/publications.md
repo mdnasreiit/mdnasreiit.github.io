@@ -24,7 +24,6 @@ Cover link: [https://pubs.acs.org/toc/iecred/64/49](https://pubs.acs.org/toc/iec
 5. Croft, J., Alam, M. N., Jakata, N., Srinivasan, B., Srinivasan, R., & Majozi, T. (2021). Synthesis of an optimal schedule and water network for a multipurpose multiproduct textile industry through a sequential MILP-NLP technique. Industrial & Engineering Chemistry Research, 60(45), 16363-16377.<br>  DOI: [10.1021/acs.iecr.1c02661](https://pubs.acs.org/doi/full/10.1021/acs.iecr.1c02661). <br>
 
 
-
 ## Conference Proceedings
 
 1. Alam, M. N., Kodamana, H., & Rathore, A. S. (2025). Hybrid Modelling Frameworks in Bioprocessing: Current Practices and Future Directions. AI and ML in Drug Discovery and Manufacturing. American Chemical Society. (Manuscript ID: bk-2025-00340m).
