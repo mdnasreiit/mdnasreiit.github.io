@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-<ins>**Research Interests**</ins>
+<ins>**Areas of Research Interests**</ins>
 - **Machine Learning and Deep Learning**  
 - **Data-driven, Mechanistic and Hybrid Modelling**  
 - **Reinforcement Learning**
