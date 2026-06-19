@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Conference Proceedings
+## Journal articles
 
 1. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2026). Integrating mechanistic modelling with a multi-agent reinforcement learning framework for stage-wise optimization of protein production in E. coli. Computers & Chemical Engineering, 109692. Volume 212.<br> DOI: [10.1016/j.compchemeng.2026.109692](https://doi.org/10.1016/j.compchemeng.2026.109692).<br>
 
