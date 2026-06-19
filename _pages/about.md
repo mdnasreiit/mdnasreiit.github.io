@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Mohammad Nasre Alam. I am currently working as a Senior Scientist at Pfizer.
+Hi! I am Mohammad Nasre Alam. I am currently working as a Senior Scientist at Pfizer Chennai, India. I am focusing on the development of process quality prediction model using ML/DL techniques. I am also applying neural ODE-based model to learn and predict bioprocess reactor dynamics.
 
 
 I finished my PhD in Chemical Engineering from the [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/), India where I worked with Prof. [Anurag S. Rathore](https://www.biotechcmz.com/) and Prof. [Hariprasad Kodamana](https://web.iitd.ac.in/~kodamana/index.html). My doctoral work focuses the AI/ML integrated frameworks development including deep learning based convolutional neural networks (CNNs), hybrid modelling employing physics‐informed neural networks (PINNs), symbolic machine learning (SyML) assisted data-driven modelling and interpretability, and hybrid modelling based multi-agent reinforcement learning framework integrating mechanistic modelling, with different multiobjective optimization approaches, including data-driven and evolutionary techniques to improve the efficiency and productivity in end-to-end bioprocessing, particularly for biopharmaceuticals production.
