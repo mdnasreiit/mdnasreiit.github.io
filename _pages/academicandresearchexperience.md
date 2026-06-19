@@ -20,7 +20,7 @@ Education
 Research Experiences
 ======
 
-* **February 2026 -**: Senior Scientist, Pfizer
+* **February 2026 - till present**: Senior Scientist, Pfizer
   * Project:Process quality model development using ML/DL techniques through feature selection & 
   * Applying Neural ODE-based model to learn and predict bioprocess reactor dynamics <br>
 
