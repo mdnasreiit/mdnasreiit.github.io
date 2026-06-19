@@ -40,7 +40,7 @@ Cover link: [https://pubs.acs.org/toc/iecred/64/49](https://pubs.acs.org/toc/iec
 
 ## Selected Talks and Poster Presentations
 
- 1. 	Invited speaker for a talk on “Physics-informed neural networks: Basics and case studies” at 10th Annual CBT Course Series 2025, December 8-10, IIT Delhi, New Delhi.
+ 1. Invited speaker for a talk on “Physics-informed neural networks: Basics and case studies” at 10th Annual CBT Course Series 2025, December 8-10, IIT Delhi, New Delhi.
    
  2. Alam, M. N., Anurag, A., Gangwar, N., Ramteke, M., Kodamana, H., & Rathore, A. S. Physics-informed neural networks guided modelling and multiobjective optimization of a mAb production process. **ACS Spring 2025**, March 23-27, San Diego, USA. [Talk]
 
