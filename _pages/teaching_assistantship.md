@@ -51,7 +51,7 @@ Indian Institute of Technology Delhi, Hauz Khas, New Delhi, Delhi-110016, India
 ### **Prof. Sadaf Zaidi**  
 **Professor and Chairman**  
 *Department of Post Harvest Engineering & Technology*  
-Aligarh Muslim University, Aligarh, India  
+Aligarh Muslim University, Aligarh, 202001, India  
 **Email:** s.zaidi.ke@amu.ac.in 
 
 
