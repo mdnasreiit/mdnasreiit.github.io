@@ -34,6 +34,6 @@ Research Experiences
   * Supervisors: Prof. Babji Srinivasan & Prof. Rajagopalan Srinivasan
   * Laboratory for Intelligent Applications in Chemical Engineering <br>
   
-* **July 1, 2017 - July 31, 2017**: BTech Summer Internship
+* **July 1, 2017 - July 31, 2017**: B.Tech Summer Internship
   * Indian Oil Corporation Limited, Barauni, Bihar, India
   
