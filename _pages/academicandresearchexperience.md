@@ -21,7 +21,7 @@ Research Experiences
 ======
 
 * **February 2026 - till present**: Senior Scientist (Bioprocess R&D), Pfizer Chennai
-  * Project: Process quality model development using ML/DL techniques through feature selection & 
+  * Project: Process quality model development using ML/DL techniques through feature selection, & 
   * Applying Neural ODE-based model to learn and predict bioprocess reactor dynamics <br>
 
   
