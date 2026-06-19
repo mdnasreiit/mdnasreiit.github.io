@@ -12,16 +12,17 @@ redirect_from:
 
 Education
 ====== 
-* PhD Candidate in Chemical Engineering, Indian Institute of Technology Delhi, India [September 2020 - August 2025]
-* MTech in Chemical Engineering, Indian Institute of Technology Gandhinagar, India [July 2018 - July 2020]
-* BTech in Chemical Engineering, ZHCET, Aligarh Muslim University, India [July 2014 - June 2018]
+* PhD in Chemical Engineering, Indian Institute of Technology Delhi, India [September 2020 - August 2025]
+* M.Tech in Chemical Engineering, Indian Institute of Technology Gandhinagar, India [July 2018 - July 2020]
+* B.Tech in Chemical Engineering, ZHCET, Aligarh Muslim University, India [July 2014 - June 2018]
 
 
-Research Experience
+Research Experiences
 ======
 
 * **February 2026 -**: Senior Scientist, Pfizer
-  * Project: <br>
+  * Project:Process quality model development using ML/DL techniques through feature selection & 
+  * Applying Neural ODE-based model to learn and predict bioprocess reactor dynamics <br>
 
   
 * **February 2020 - July 2020**: Academic Research Internship, University of the Witwatersrand, Johannesburg, South Africa
