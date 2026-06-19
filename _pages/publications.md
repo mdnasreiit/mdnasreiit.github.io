@@ -27,14 +27,15 @@ Cover link: [https://pubs.acs.org/toc/iecred/64/49](https://pubs.acs.org/toc/iec
 
 ## Conference Proceedings
 
-1. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier.<br>  DOI: [10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
+1. Alam, M. N., Kodamana, H., & Rathore, A. S. (2025). Hybrid Modelling Frameworks in Bioprocessing: Current Practices and Future Directions. AI and ML in Drug Discovery and Manufacturing. American Chemical Society. (Manuscript ID: bk-2025-00340m).
+  
+2. Alam, M. N., Bhat, S. U., Kodamana, H., & Rathore, A. S. (2024). DL based real-time prediction of product formation in biopharmaceutical manufacturing. In Computer Aided Chemical Engineering (Vol. 53, pp. 3061-3066). Elsevier.<br>  DOI: [10.1016/B978-0-443-28824-1.50511-1](https://www.sciencedirect.com/science/article/pii/B9780443288241505111). <br>
 
-2. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, ISBN: 9789310 000719.
+3. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, ISBN: 9789310 000719.
 
-3. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023). Bio-jet fuel: an overview of various feedstock and production routes. In AIP conference proceedings (Vol. 2785, No. 1). AIP Publishing.<br>  DOI:  [10.1063/5.0147982](https://doi.org/10.1063/5.0147982)
+4. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023). Bio-jet fuel: an overview of various feedstock and production routes. In AIP conference proceedings (Vol. 2785, No. 1). AIP Publishing.<br>  DOI:  [10.1063/5.0147982](https://doi.org/10.1063/5.0147982)
 
-## Accepted
-4. Alam, M. N., Kodamana, H., & Rathore, A. S. (2025). Hybrid Modelling Frameworks in Bioprocessing: Current Practices and Future Directions. Special Section: ACS eBooks Symposium Series (Under revision in response to reviewers’ comments).
+
 
 
 ## Selected Talks and Poster Presentations
