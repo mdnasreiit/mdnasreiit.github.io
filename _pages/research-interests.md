@@ -32,7 +32,8 @@ redirect_from:
 - **March 2025**: Research Excellence Travel Allowance (RETA) Award, IIT Delhi
 - **June 2024**: Research Scholar Travel Allowance (RSTA) Award, IIT Delhi
 - **September 2020 - September 2025**: Graduate Teaching Assistant Fellowship, IIT Delhi
+- **September 2024 - Present**: Student Member of American Chemical Society (ACS), USA
 - **July 2019**: Recipient of Scheme for Promotion of Academic and Research Collaboration (SPARC) Award, MoE-GoI.
 - **July 2018 - June 2020**: Recipient of Director’s Fellowship, IIT Gandhinagar
 - **July 2016 - June 2017**: Recipient of Vice Chancellor’s Fellowship, Aligarh Muslim University
-- **September 2024 - Present**: Student Member of American Chemical Society (ACS), USA
+
