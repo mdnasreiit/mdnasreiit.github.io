@@ -32,18 +32,26 @@ redirect_from:
 
 <ins>**Academic References**</ins>
 
-###  **Prof. Hariprasad Kodamana**  
-**Associate Professor**  
-*Department of Chemical Engineering and Yardi School of Artificial Intelligence*  
-Indian Institute of Technology Delhi, Hauz Khas, New Delhi, Delhi-110016, India  
-**Contact:** +91-11-26591024  
-**Email:** kodamana@iitd.ac.in  
-
 
 ### **Prof. Anurag S. Rathore**  
 **Coordinator, DBT COE for Biopharmaceutical Technology**  
 **Professor and Head**  
 *Department of Chemical Engineering and Yardi School of Artificial Intelligence*  
 Indian Institute of Technology Delhi, Hauz Khas, New Delhi, Delhi-110016, India  
-**Contact:** +91-11-26591098  
 **Email:** asrathore@biotechcmz.com  
+
+###  **Prof. Hariprasad Kodamana**  
+**Associate Professor**  
+*Department of Chemical Engineering and Yardi School of Artificial Intelligence*  
+Indian Institute of Technology Delhi, Hauz Khas, New Delhi, Delhi-110016, India   
+**Email:** kodamana@iitd.ac.in  
+
+
+
+### **Prof. Sadaf Zaidi**  
+**Professor and Chairman**  
+*Department of Post Harvest Engineering & Technology*  
+Aligarh Muslim University, Aligarh, India  
+**Email:** s.zaidi.ke@amu.ac.in 
+
+
