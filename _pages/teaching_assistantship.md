@@ -17,7 +17,7 @@ redirect_from:
 - Introduction to Material Science course [CLL141, Semester-II, 2023-2024]  
 
 
-<ins>**MTech**</ins>
+<ins>**M.Tech**</ins>
 
 - Heat Transfer and Thermodynamics Lab [CLL351, Semester-I, 2019-2020]  
 - Fluid Mechanics Lab [CL251, Semester-II, 2019-2020] 
