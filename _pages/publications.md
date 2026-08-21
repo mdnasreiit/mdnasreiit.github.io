@@ -30,7 +30,7 @@ Cover link: [https://pubs.acs.org/toc/iecred/64/49](https://pubs.acs.org/toc/iec
 
 3. Alam, M. N., Gangwar, N., Kodamana, H., & Rathore, A. S. (2023). Approach Leveraging Deep Learning to Enhance Time Series Forecasting in Bioreactor Operations via LSTM Networks. In IIChE-CHEMCON Conference Proceedings, ISBN: 9789310 000719.
 
-4. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023). Bio-jet fuel: an overview of various feedstock and production routes. In AIP conference proceedings (Vol. 2785, No. 1). AIP Publishing.<br>  DOI:  [10.1063/5.0147982](https://doi.org/10.1063/5.0147982) <br>
+4. Ahmed, M., Alam, M. N., Abdullah, A., & Ahmad, Z. (2023). Bio-jet fuel: an overview of various feedstock and production routes. In AIP conference proceedings (Vol. 2785, No. 1). AIP Publishing.<br>  DOI:  [10.1063/5.0147982](https://doi.org/10.1063/5.0147982). <br>
 
 
 
