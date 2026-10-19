@@ -31,7 +31,7 @@ redirect_from:
     b. Physics-based hybrid modelling of mammalian cell culture
 
 2. **Mentored two Dual Degree (integrated B.Tech. & M.Tech) students at IIT Delhi** 
-  - *Project:*
+  - *Project:* </br>
     a. Physics-informed neural networks and LLM-based application for bioreactor operation
 
 
