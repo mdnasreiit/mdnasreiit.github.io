@@ -12,27 +12,27 @@ redirect_from:
 
 <ins>**PhD**</ins>
 
-- Process Data Analytics course [CLL788, Semester-II, 2022-2023]  
-- Certificate course in Data Science and Machine Learning [Online E-Vidya course, Semester-I & II, 2023-2024]  
-- Introduction to Material Science course [CLL141, Semester-II, 2023-2024]  
+1. Process Data Analytics course [CLL788, Semester-II, 2022-2023]
+2. Certificate course in Data Science and Machine Learning [Online E-Vidya course, Semester-I & II, 2023-2024]
+3. Introduction to Material Science course [CLL141, Semester-II, 2023-2024]  
 
 
 <ins>**M.Tech**</ins>
 
-- Heat Transfer and Thermodynamics Lab [CLL351, Semester-I, 2019-2020]  
-- Fluid Mechanics Lab [CL251, Semester-II, 2019-2020] 
+1. Heat Transfer and Thermodynamics Lab [CLL351, Semester-I, 2019-2020]
+2. Fluid Mechanics Lab [CL251, Semester-II, 2019-2020] 
 
 
 <ins>**Mentorship**</ins>
 
-- **Mentoring two PhD students in the Department of Chemical Engineering, IIT Delhi**
+1. **Mentoring two PhD students in the Department of Chemical Engineering, IIT Delhi**
   - *Projects:*
-    1. Inverse physics-informed transfer learning for chromatography modelling
-    2. Physics-based hybrid modelling of mammalian cell culture
+    a. Inverse physics-informed transfer learning for chromatography modelling
+    b. Physics-based hybrid modelling of mammalian cell culture
 
-- **Mentored two Dual Degree (integrated B.Tech. & M.Tech) students at IIT Delhi** 
+2. **Mentored two Dual Degree (integrated B.Tech. & M.Tech) students at IIT Delhi** 
   - *Project:*
-    1. Physics-informed neural networks and LLM-based application for bioreactor operation
+    a. Physics-informed neural networks and LLM-based application for bioreactor operation
 
 
 
