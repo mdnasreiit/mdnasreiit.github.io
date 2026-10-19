@@ -26,7 +26,7 @@ redirect_from:
 <ins>**Mentorship**</ins>
 
 1. **Mentoring two PhD students in the Department of Chemical Engineering, IIT Delhi**
-  - *Projects:*
+  - *Projects:* </br>
     a. Inverse physics-informed transfer learning for chromatography modelling </br>
     b. Physics-based hybrid modelling of mammalian cell culture
 
