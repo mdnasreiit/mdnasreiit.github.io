@@ -25,8 +25,15 @@ redirect_from:
 
 <ins>**Mentorship**</ins>
 
-- Guided two Dual Degree (Integrated B.Tech & M.Tech) students at IIT Delhi  
-- Projects: Physics-Informed Neural Network and LLM based application for bioreactor operation
+- Mentoring two PhD students in the Department of Chemical Engineering at IIT Delhi
+- Projects:
+-   (a) Inverse physics-informed transfer learning in chromatography modeling
+-   (b) Physics-based hybrid modelling of mammalian cell culture
+-
+- Mentored two Dual Degree (Integrated B.Tech & M.Tech) students at IIT Delhi  
+- Project: Physics-Informed Neural Network and LLM based application for bioreactor operation
+
+
 
 
 
